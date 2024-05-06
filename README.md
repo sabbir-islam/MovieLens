@@ -20,9 +20,13 @@ MovieLens is a recommendation system that uses machine learning algorithms to su
 
 ## Installation
 
-## Interface
-![alt text](D:\image)
+# Interface
+## Before search
+![Screenshot 2024-05-06 222413](https://github.com/sabbir-islam/MovieLens/assets/99163880/5aa32589-27bd-4b26-8722-bb85b025ea3e)
+## After Search
+![Screenshot 2024-05-06 222516](https://github.com/sabbir-islam/MovieLens/assets/99163880/6789b1a8-8522-46c5-afef-dcd44170261d)
+
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/MovieLens.git
+git clone https://github.com/sabbir-islam/MovieLens.git
